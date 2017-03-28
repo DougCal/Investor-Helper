@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Eulexia",
+  "name": "Investors Accountability Partner",
   "version": "1.0",
 
   "description": "Making webpages more readable for learning impaired",
@@ -16,9 +16,9 @@
   },
 
   "browser_action": {
-          "default_icon": "icon.png",
-          "default_title": "Eulexia"
-      },
+    "default_icon": "Designcontest-Ecommerce-Business-Money-0.png",
+    "default_title": "Investors Accountability Partner"
+  },
 
   "content_scripts": [
     {

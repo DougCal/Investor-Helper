@@ -1,0 +1,22 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "Help investors not look at stock quotes when they know they shouldn't",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DougCal/Investor-Helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DougCal/Investor-Helper.git/issues"
+  },
+  "homepage": "https://github.com/DougCal/Investor-Helper#readme",
+  "dependencies": {
+    "babelify": "^7.3.0"
+  }
+}
